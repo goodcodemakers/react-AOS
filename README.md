@@ -15,7 +15,7 @@ https://react-icons.github.io/react-icons/icons?name=bs */
 
 1. npm을 통해 AOS를 설치한다.
 터미널을 열고 다음의 커맨드를 입력한다.
-```
+```npm
 npm install aos --save
 ```
 2. AOS를 사용할 컴포넌트로 이동하자.
